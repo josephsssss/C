@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1690101419 source:c:\users\joseph_park\desktop\c\file2\algorithm\algorithm.c
+	<assert.h>
+	<stddef.h>
+	"algorithm.h"
+
+1690099358 c:\users\joseph_park\desktop\c\file2\algorithm\algorithm.h
+
+1690255998 source:c:\users\joseph_park\desktop\c\file2\algorithm\main.c
+	<stdio.h>
+	"algorithm.h"
+	"memory.h"
+	"vector.h"
+
+1690088415 source:c:\users\joseph_park\desktop\c\file2\algorithm\memory.c
+	<stddef.h>
+	"memory.h"
+
+1690087863 c:\users\joseph_park\desktop\c\file2\algorithm\memory.h
+
+1690106266 source:c:\users\joseph_park\desktop\c\file2\algorithm\vector.c
+	"vector.h"
+	<stddef.h>
+
+1690106293 c:\users\joseph_park\desktop\c\file2\algorithm\vector.h
+
+1690255998 source:c:\users\joseph_park\desktop\c\file2\algorithm\print_ascii_table.c
+	<stdio.h>
+	"print_ascii_table.h"
+
+1690255998 c:\users\joseph_park\desktop\c\file2\algorithm\print_ascii_table.h
+	<stdio.h>
+
